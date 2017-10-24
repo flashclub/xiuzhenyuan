@@ -1,0 +1,13 @@
+*{margin: 0;padding: 0}
+
+.orange{
+/*	width: 30%;
+	height: 30% ;*/
+	padding: 15%;
+	margin-top:2.5%;
+	margin-left: 2.5%;
+	border-radius: 5px;
+	float: left;
+	overflow: hidden;
+	background-color: orange;
+}
